@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from sklearn.pipeline import Pipeline
 import joblib
 
 # Load model
